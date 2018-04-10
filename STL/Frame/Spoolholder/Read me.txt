@@ -1,0 +1,7 @@
+# of parts needed:
+
+Part name:			Amount:
+SpooholderArm 			2
+Spool				1
+SpoolMount 			2
+
