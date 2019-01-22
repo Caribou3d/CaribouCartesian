@@ -1,4 +1,4 @@
-# Zaribo-MK3 www.zaribo.org
+# Zaribo-MK3 www.zaribo.com
 
 Welcome to our new members and greetings to existing ones. Hereby you will find the expected clarification about Zaribo Project.
 
@@ -8,6 +8,6 @@ Zaribo.org is the web shop for high quality genuine parts you may need for your 
 
 Zaribo.org only sells tested, high quality genuine items. Misumi is the best and most affordable vendor so far for hardware like rods and extrusions. Rock hardened rods are being cut with lathe precision. Aluminum extrusion cutting and drilling are precise and without sawdust.
 
-You can also find the BOM for Zaribo 320 and 220 on Zaribo.org/blog
+You can also find the BOM for Zaribo 320 and 220 on Zaribo.com/blog
 
 Special thanks to all our members for the contribution as the project is growing within an exceptional friendly and courteous platform by our originator, caressing and smart members from all arround the world.
