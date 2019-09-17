@@ -26,6 +26,19 @@ Special thanks to all our members for the contribution as the project is growing
 
 * Store: https://zaribo.com
 
+## Thanks
+
+There are many people who have contributed on one form or another to the project. We like to thank everybody who inspired or supported us. Many ideas were dicussed in the facebook groups:
+
+Official Zaribo Facebook Group: https://www.facebook.com/groups/1914969582138279/
+German Zaribo Group: https://www.facebook.com/groups/1914969582138279/
+
+Very special thanks to 3d-Gussner and Bernd Brinkert for their huge support and effort in providing and testing Zaribo firmware.
+
+Thank you Rebecca and Jason from LDO Motors and Martin from Bondtech for the quality manufacturing and relationship.
+
+Thanks to our other supplier: E3d, Microswiss, Slice Engineering, Misumi for delivering high quality products to us.
+
 ## Sources
 
 We give references that have influneced the design. Since the majority of plastic parts (even if much improved and somehow "new and different") have their roots in the initial design by Prusa Research we like to mention this a first and most influential reference. 
@@ -61,10 +74,11 @@ Meanwell PSU-holder
 Extruder of Rel. 2 that still can be used instead of the Bondtech extruder
 * MK3 Extruder and X Carriage: Vecko Kojchevski https://www.thingiverse.com/thing:2843264
 
-Earlier Releases were designed by or influenced by
+Earlier Releases were designed by or influenced by:
 
 * Stefan Weber: y-belt tensioner: https://www.thingiverse.com/thing:2666661
 * Jon Madden: Prusa MK2/S X-Carriage Adjustable Tensioner by: https://www.thingiverse.com/thing:2770019
 * Vecko Kojchevski: https://www.thingiverse.com/vekoj/designs
 * Murathan Araz https://www.thingiverse.com/murathanaraz/designs
+* Ocie Ward
 
