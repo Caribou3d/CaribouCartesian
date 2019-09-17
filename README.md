@@ -1,4 +1,10 @@
-# Zaribo-MK3
+# Zaribo-MK3 Rel. 3.0
+
+![Zaribo-MK3 Rel. 3.0](img/mk3full-web.png)
+
+
+## Introduction
+
 
 Store: https://zaribo.com
 
