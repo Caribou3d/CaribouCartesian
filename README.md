@@ -9,13 +9,9 @@ Welcome to the Zaribo github project page!
 
 Zaribo 320 and Zaribo 220 are available as a full build or as a kit. You can also mod your Original Prusa printers to Zaribo 320 and Zaribo 220 with upgrade kits. Numbers are indicating the Z-Axis height. They are all featuring 3030 Aluminium Extrusions and improved plastic parts for rigidity, accuracy and speed. Both mods are almost identical except the Z-Axis motors and rods. You need longer lead screws for 320 build and you can buy identical quality stepper motors from Zaribo.com which have been used on the Original Prusa MK series.
 
-Zaribo.com is the webshop for high-quality genuine parts you may need for your builds including heated beds, motors, screws, nuts, controller boards and even extruder springs.
-
-Zaribo.com only sells tested, high-quality genuine items. Misumi is the best and most affordable vendor so far for hardware like rods and extrusions. Rock hardened rods are being cut with lathe precision. Aluminium extrusion cutting and drilling are precise and without sawdust.
-
 You can also find the BOM for Zaribo 320 and 220 on Zaribo.com/blog
 
-Special thanks to all our members for the contribution as the project is growing within an exceptionally friendly and courteous platform by our originator, caressing and smart members from all around the world. 🙏
+Special thanks to all our members for the contribution as the project is growing within an exceptionally friendly and courteous platform. 🙏
 
 ## Project Pages
 
@@ -25,6 +21,10 @@ Special thanks to all our members for the contribution as the project is growing
 ## Where to buy
 
 * Store: https://zaribo.com
+
+Zaribo.com is the webshop for high-quality genuine parts you may need for your builds including heated beds, motors, screws, nuts, controller boards and even extruder springs.
+
+Zaribo.com only sells tested, high-quality genuine items from Bondtech, E3d, Microswiss, Capricorn, Slice Engineering, LDO, Misumi, and Meanwell. 
 
 ## Thanks
 
@@ -74,7 +74,7 @@ Meanwell PSU-holder
 Extruder of Rel. 2 that still can be used instead of the Bondtech extruder
 * MK3 Extruder and X Carriage: Vecko Kojchevski https://www.thingiverse.com/thing:2843264
 
-Earlier Releases were designed by or influenced by:
+Earlier Releases were partly designed by or influenced by:
 
 * Stefan Weber: y-belt tensioner: https://www.thingiverse.com/thing:2666661
 * Jon Madden: Prusa MK2/S X-Carriage Adjustable Tensioner by: https://www.thingiverse.com/thing:2770019
