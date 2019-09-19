@@ -28,7 +28,7 @@ Zaribo.com only sells tested, high-quality genuine items from Bondtech, E3d, Mic
 
 ## Thanks
 
-There are many people who have contributed on one form or another to the project. We like to thank everybody who inspired or supported us. Many ideas were dicussed in the facebook groups:
+There are many people who have contributed on one form or another to the project. We like to thank everybody who inspired or supported us. Many ideas were discussed in the facebook groups:
 
 Official Zaribo Facebook Group: https://www.facebook.com/groups/1914969582138279/
 German Zaribo Group: https://www.facebook.com/groups/1914969582138279/
