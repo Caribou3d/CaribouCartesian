@@ -77,6 +77,9 @@ Extruder of Rel. 2 that still can be used instead of the Bondtech extruder
 STL for PrusaSlicer as background
 * thanks to Patrick Vosshans
 
+Mosquito PFTE cutting tools
+* based on the version by Juan Puchol https://www.thingiverse.com/thing:4156136
+
 Earlier Releases were partly designed by or influenced by:
 
 * Stefan Weber: y-belt tensioner: https://www.thingiverse.com/thing:2666661
