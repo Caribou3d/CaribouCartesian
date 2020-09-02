@@ -9,18 +9,13 @@ Welcome to the Zaribo github project page!
 
 Zaribo 320 and Zaribo 220 are available as a full build or as a kit. You can also mod your Original Prusa printers to Zaribo 320 and Zaribo 220 with upgrade kits. Numbers are indicating the Z-Axis height. They are all featuring 3030 Aluminium Extrusions and improved plastic parts for rigidity, accuracy and speed. Both mods are almost identical except the Z-Axis motors and rods. You need longer lead screws for 320 build and you can buy identical quality stepper motors from Zaribo.com which have been used on the Original Prusa MK series.
 
-You can also find the BOM for Zaribo 320 and 220 on Zaribo.com/blog
 
 Special thanks to all our members for the contribution as the project is growing within an exceptionally friendly and courteous platform. 🙏
 
-## Project Pages
-
-* Blog: https://zaribo.com/blog
-* Thingiverse: https://www.thingiverse.com/zaribocom
 
 ## Where to buy
 
-* Store: https://zaribo.com
+* Store: https://zaribo3d.com
 
 Zaribo.com is the webshop for high-quality genuine parts you may need for your builds including heated beds, motors, screws, nuts, controller boards and even extruder springs.
 
@@ -30,8 +25,8 @@ Zaribo.com only sells tested, high-quality genuine items from Bondtech, E3d, Mic
 
 There are many people who have contributed on one form or another to the project. We like to thank everybody who inspired or supported us. Many ideas were discussed in the facebook groups:
 
-Official Zaribo Facebook Group: https://www.facebook.com/groups/1914969582138279/
-German Zaribo Group: https://www.facebook.com/groups/1914969582138279/
+Official Zaribo Facebook Group: 
+German Zaribo Group: 
 
 Very special thanks to 3d-Gussner and Bernd Brinkert for their huge support and effort in providing and testing Zaribo firmware.
 
