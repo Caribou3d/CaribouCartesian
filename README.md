@@ -7,7 +7,7 @@
 
 Welcome to the Caribou github project page!
 
-Caribou 320 and Caribou 220 are available as a full build or as a kit. You can also mod your Original Prusa printers to Zaribo 320 and Zaribo 220 with upgrade kits. Numbers are indicating the Z-Axis height. They are all featuring 3030 Aluminium Extrusions and improved plastic parts for rigidity, accuracy and speed. Both mods are almost identical except the Z-Axis motors and rods. You need longer lead screws for 320 build and you can buy identical quality stepper motors from Zaribo.com which have been used on the Original Prusa MK series.
+Caribou 320 and Caribou 220 are available as a full build or as a kit. You can also mod your Original Prusa printers to Caribou 320 and Caribou 220 with upgrade kits. Numbers are indicating the Z-Axis height. They are all featuring 3030 Aluminium Extrusions and improved plastic parts for rigidity, accuracy and speed. Both mods are almost identical except the Z-Axis motors and rods. You need longer lead screws for 320 build and you can buy identical quality stepper motors from caribou3d.com which have been used on the Original Prusa MK series.
 
 
 Special thanks to all our members for the contribution as the project is growing within an exceptionally friendly and courteous platform. 🙏
@@ -28,7 +28,7 @@ There are many people who have contributed on one form or another to the project
 Official Caribou Facebook Group: https://www.facebook.com/groups/636587910566652
 German Caribo Group: https://www.facebook.com/groups/315750966179297
 
-Very special thanks to 3d-Gussner and Bernd Brinkert for their huge support and effort in providing and testing Zaribo firmware.
+Very special thanks to 3d-Gussner and Bernd Brinkert for their huge support and effort in providing and testing Caribou firmware.
 
 Thank you Rebecca and Jason from LDO Motors and Martin from Bondtech for the quality manufacturing and relationship.
 
