@@ -1,6 +1,6 @@
 # Caribou-MK3(s) Rel. 3.0
 
-![Caribou-MK3 Rel. 3.0](img/mk3full-web.png)
+![Caribou-MK3 Rel. 3.0](img/mk3full-ng-web.png)
 
 
 ## Introduction
