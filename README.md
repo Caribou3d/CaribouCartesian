@@ -25,8 +25,9 @@ Caribou3d.com only sells tested, high-quality genuine items from Bondtech, E3d, 
 
 There are many people who have contributed on one form or another to the project. We like to thank everybody who inspired or supported us. Many ideas were discussed in the facebook groups:
 
-Official Caribou Facebook Group: https://www.facebook.com/groups/636587910566652
-German Caribo Group: https://www.facebook.com/groups/315750966179297
+Official Caribou Facebook Group: https://www.facebook.com/groups/caribou3d
+
+German Caribou Group: https://www.facebook.com/groups/caribou3dde
 
 Very special thanks to 3d-Gussner and Bernd Brinkert for their huge support and effort in providing and testing Caribou firmware.
 
@@ -83,6 +84,5 @@ Earlier Releases were partly designed by or influenced by:
 * Stefan Weber: y-belt tensioner: https://www.thingiverse.com/thing:2666661
 * Jon Madden: Prusa MK2/S X-Carriage Adjustable Tensioner by: https://www.thingiverse.com/thing:2770019
 * Vecko Kojchevski: https://www.thingiverse.com/vekoj/designs
-* Murathan Araz https://www.thingiverse.com/murathanaraz/designs
 * Ocie Ward
 
