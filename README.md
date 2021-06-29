@@ -44,6 +44,9 @@ Frame
 * Prusa i3 MK2-X by davtr https://www.thingiverse.com/thing:1692666
 * Haribo Project https://github.com/PrusaMK2Users/3030_Haribo_Edition
 
+BL-Touch Holder 
+* Design by Michael Müller. Thanks for providing the STEP file.
+
 y-rodholder:
 * they have been inspired by the design of Piotr Karkovski https://www.thingiverse.com/thing:2830591
 
