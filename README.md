@@ -45,6 +45,10 @@ Frame
 * Prusa i3 MK2-X by davtr https://www.thingiverse.com/thing:1692666
 * Haribo Project https://github.com/PrusaMK2Users/3030_Haribo_Edition
 
+
+LGX-Mosquito Extruder
+* initial design done by Gerd Jentz: https://github.com/gerdj/LGX_Mosquito
+
 BL-Touch Holder 
 * Design by Michael Müller. Thanks for providing the STEP file.
 
