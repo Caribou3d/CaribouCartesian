@@ -1,11 +1,12 @@
-# Caribou-MK3(s) Rel. 3.0
+# CaribouCartesian Printers
 
-![Caribou-MK3 Rel. 3.0](img/Caribou-MK3-web.png)
-
+<img src="https://github.com/Caribou3d/Caribou-MK3/blob/master/img/Caribou-MK3-web.png" width="400"> <img src="https://github.com/Caribou3d/CaribouDuet/blob/main/img/CaribouDuet-20201209-2-med.png" width="500"> 
 
 ## Introduction
 
 Welcome to the Caribou github project page!
+
+CaribouCartesian printers come in two flavours: CaribouDuet and Caribou-Mk3s. They're both based on many similar or same plastic parts. The parts have now been integrated into one project. This is Release 4.0 of the parts.
 
 Caribou 320 and Caribou 220 are available as a full build or as a kit. You can also mod your Original Prusa printers to Caribou 320 and Caribou 220 with upgrade kits. Numbers are indicating the Z-Axis height. They are all featuring 3030 Aluminium Extrusions and improved plastic parts for rigidity, accuracy and speed. Both mods are almost identical except the Z-Axis motors and rods. You need longer lead screws for 320 build and you can buy identical quality stepper motors from caribou3d.com which have been used on the Original Prusa MK series.
 
