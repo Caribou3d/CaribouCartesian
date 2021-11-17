@@ -1,6 +1,6 @@
 # CaribouCartesian Printers
 
-<img src="https://github.com/Caribou3d/CaribouCartesian/blob/master/img/Caribou-MK3-web.png" width="400"> <img src="https://github.com/Caribou3d/CaribouCartesian/blob/master/img/CaribouDuet-20201209-2-med.png" width="500"> 
+<img src="https://github.com/Caribou3d/CaribouCartesian/blob/master/img/Caribou-MK3-web.png" width="400"> <img src="https://github.com/Caribou3d/CaribouCartesian/blob/master/img/CaribouDuet-20201209-2-med.png" width="400"> 
 
 ## Introduction
 
