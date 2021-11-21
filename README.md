@@ -8,7 +8,7 @@ Welcome to the Caribou github project page!
 
 CaribouCartesian printers come in two flavours: CaribouDuet and Caribou-Mk3s. They're both based on many similar or same plastic parts. The parts have now been integrated into one project. This is Release 4.0 of the parts.
 
-Caribou 320 and Caribou 220 are available as a full build or as a kit. You can also mod your Original Prusa printers to Caribou 320 and Caribou 220 with upgrade kits. Numbers are indicating the Z-Axis height. They are all featuring 3030 Aluminium Extrusions and improved plastic parts for rigidity, accuracy and speed. Both mods are almost identical except the Z-Axis motors and rods. You need longer lead screws for 320 build and you can buy identical quality stepper motors from caribou3d.com which have been used on the Original Prusa MK series.
+Caribou printers come in three standard print heights: 220mm, 320mm, and 420mm (the real print height depends on the exruder, hotend, and nozzle). They are available as assmebled printers, full-kits, and upgrade kits. You can also mod your Original Prusa printers to Caribou 220, Caribou 320, and Caribou 420 with upgrade kits. Numbers are indicating the print height. They are all featuring 3030 aluminium extrusions and improved plastic parts for rigidity, accuracy and speed. The three mods are almost identical except the Z-Axis motors and rods. You need longer lead screws for 320 and 420 builds and you can buy identical quality stepper motors from caribou3d.com which have been used on the Original Prusa MK series.
 
 
 Special thanks to all our members for the contribution as the project is growing within an exceptionally friendly and courteous platform. 🙏
@@ -20,7 +20,7 @@ Special thanks to all our members for the contribution as the project is growing
 
 Caribou3d.com is the webshop for high-quality genuine parts you may need for your builds including heated beds, motors, screws, nuts, controller boards and even extruder springs.
 
-Caribou3d.com only sells tested, high-quality genuine items from Bondtech, E3d, Microswiss, Capricorn, Slice Engineering, LDO, Misumi, and Meanwell. 
+Caribou3d.com only sells tested, high-quality genuine items from Bondtech, E3d, Microswiss, Slice Engineering, LDO, Misumi, Meanwell, and many more.
 
 ## Thanks
 
