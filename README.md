@@ -6,9 +6,9 @@
 
 Welcome to the Caribou github project page!
 
-CaribouCartesian printers come in two flavours: CaribouDuet and Caribou-Mk3s. They're both based on many similar or same plastic parts. The parts have now been integrated into one project. This is Release 4.0 of the parts.
+CaribouCartesian printers come in two flavours: CaribouDuet and Caribou-MK3S+. They're both based on many similar or same plastic parts. The parts have now been integrated into one project. This is Release 4.0 of the parts.
 
-Caribou printers come in three standard print heights: 220mm, 320mm, and 420mm (the real print height depends on the exruder, hotend, and nozzle). They are available as assmebled printers, full-kits, and upgrade kits. You can also mod your Original Prusa printers to Caribou 220, Caribou 320, and Caribou 420 with upgrade kits. Numbers are indicating the print height. They are all featuring 3030 aluminium extrusions and improved plastic parts for rigidity, accuracy and speed. The three mods are almost identical except the Z-Axis motors and rods. You need longer lead screws for 320 and 420 builds and you can buy identical quality stepper motors from caribou3d.com which have been used on the Original Prusa MK series.
+Caribou printers come in three standard print heights: 220mm, 320mm, and 420mm (the real print height depends on the exruder, hotend, and nozzle). They are available as assmebled printers, full-kits, and upgrade kits. You can also mod your Original Prusa printers to Caribou 220, Caribou 320, and Caribou 420 with upgrade kits. Numbers are indicating the print height. They are all featuring 3030 aluminium extrusions and improved plastic parts for rigidity, accuracy and speed. The three mods are almost identical except the Z-Axis motors, extrusions, and rods. You need longer lead screws for 320 and 420 builds and you can buy identical quality stepper motors from caribou3d.com which have been used on the Original Prusa MK series.
 
 
 Special thanks to all our members for the contribution as the project is growing within an exceptionally friendly and courteous platform. 🙏
@@ -20,17 +20,26 @@ Special thanks to all our members for the contribution as the project is growing
 
 Caribou3d.com is the webshop for high-quality genuine parts you may need for your builds including heated beds, motors, screws, nuts, controller boards and even extruder springs.
 
-Caribou3d.com only sells tested, high-quality genuine items from Bondtech, E3d, Microswiss, Slice Engineering, LDO, Misumi, Meanwell, and many more.
+Caribou3d.com only sells tested, high-quality genuine items from Bondtech, E3d, Microswiss, Slice Engineering, LDO, Misumi, Meanwell, and many more...
 
 ## Thanks
 
-There are many people who have contributed on one form or another to the project. We like to thank everybody who inspired or supported us. Many ideas were discussed in the facebook groups:
+There are many people who have contributed on one form or another to the project. We like to thank everybody who inspired or supported us. Many ideas were discussed in the facebook groups and other channels of communication:
 
 Official Caribou Facebook Group: https://www.facebook.com/groups/caribou3d
 
 German Caribou Group: https://www.facebook.com/groups/caribou3dde
 
-Very special thanks to 3d-Gussner and Bernd Brinkert for their huge support and effort in providing and testing Caribou firmware.
+Instagram: https://www.instagram.com/caribou3d/
+
+Twitter: https://twitter.com/caribou3d
+
+Discord Deutsch: https://discord.gg/HJkc6VYEu2
+Discord Englisch: https://discord.gg/FxYT73Pz3D
+
+Manuals: https://caribou3d.dozuki.com/
+
+Very special thanks to 3d-Gussner, Bernd Brinkert, and Daniel Heimbeck for their huge support and effort in providing and testing Caribou firmware.
 
 Thank you Rebecca and Jason from LDO Motors and Martin from Bondtech for the quality manufacturing and relationship.
 
@@ -38,7 +47,7 @@ Thanks to our other supplier: E3d, Microswiss, Slice Engineering, Misumi for del
 
 ## Sources
 
-We give references that have influneced the design. Since the majority of plastic parts (even if much improved and somehow "new and different") have their roots in the initial design by Prusa Research we like to mention this a first and most influential reference. 
+We give references that have influneced the design. Since the majority of plastic parts (even if much improved and somehow "new and different") have their roots in the initial design by Prusa Research we like to mention this as first and most influential reference. 
 
 * Prusa : http://www.prusa3d.com
 
