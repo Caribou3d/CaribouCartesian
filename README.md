@@ -75,6 +75,9 @@ z-Motor Holder:
 Meanwell PSU-holder
 * Tobias Reischl https://www.thingiverse.com/thing:3373172
 
+Delta PSU-Holder
+* Peter Baltin (03.10.20229)
+
 Extruder of Rel. 2 that still can be used instead of the Bondtech extruder
 * MK3 Extruder and X Carriage: Vecko Kojchevski https://www.thingiverse.com/thing:2843264
 
