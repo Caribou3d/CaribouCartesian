@@ -35,6 +35,7 @@ Instagram: https://www.instagram.com/caribou3d/
 Twitter: https://twitter.com/caribou3d
 
 Discord Deutsch: https://discord.gg/HJkc6VYEu2
+
 Discord Englisch: https://discord.gg/FxYT73Pz3D
 
 Manuals: https://caribou3d.dozuki.com/
@@ -43,13 +44,13 @@ Very special thanks to 3d-Gussner, Bernd Brinkert, and Daniel Heimbeck for their
 
 Thank you Rebecca and Jason from LDO Motors and Martin from Bondtech for the quality manufacturing and relationship.
 
-Thanks to our other supplier: E3d, Microswiss, Slice Engineering, Misumi for delivering high quality products to us.
+Thanks to our other suppliers: E3d, Microswiss, Slice Engineering, Misumi for delivering high quality products to us.
 
 ## Sources
 
 We give references that have influneced the design. Since the majority of plastic parts (even if much improved and somehow "new and different") have their roots in the initial design by Prusa Research we like to mention this as first and most influential reference. 
 
-* Prusa : http://www.prusa3d.com
+* Prusa: http://www.prusa3d.com
 
 Frame
 * Prusa i3 MK2-X by davtr https://www.thingiverse.com/thing:1692666
