@@ -46,12 +46,15 @@ Frame
 * Prusa i3 MK2-X by davtr https://www.thingiverse.com/thing:1692666
 * Haribo Project https://github.com/PrusaMK2Users/3030_Haribo_Edition
 
-
 LGX-Mosquito Extruder
 * initial design done by Gerd Jentz: https://github.com/gerdj/LGX_Mosquito
 
 BL-Touch Holder 
-* Design by Michael Müller. Thanks for providing the STEP file.
+* Design by Michael Müller. Thanks for providing the STEP file
+
+Fan ducts for Bondtech (E3d, Mosquito), LGX-Mosquito, LGX-Copperhead
+* Design by Torsten Juch: https://www.thingiverse.com/thing:4969611/files
+* Tested and improved by Nico Seeleib, Frank Gotzhein
 
 y-rodholder:
 * they have been inspired by the design of Piotr Karkovski https://www.thingiverse.com/thing:2830591
