@@ -94,7 +94,7 @@ Delta PSU-Holder
 Extruder of Rel. 2 that still can be used instead of the Bondtech extruder
 * MK3 Extruder and X Carriage: Vecko Kojchevski https://www.thingiverse.com/thing:2843264
 
-STL for PrusaSlicer as background
+STL and SVG for PrusaSlicer for MKx, Klipper,and Mosaic as background
 * thanks to Patrick Vosshans
 
 Mosquito PFTE cutting tools
