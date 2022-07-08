@@ -1,6 +1,6 @@
 # CaribouCartesian Printers
 
-<img src="https://github.com/Caribou3d/CaribouCartesian/blob/master/img/Caribou-Duet-MK3S-Rel-4-20211121.png" width="900"> 
+<img src="https://github.com/Caribou3d/CaribouCartesian/blob/master/img/Caribou-Duet-MK3S-Rel-4-20211121.png" width="900">
 
 ## Introduction
 
@@ -48,7 +48,7 @@ Thanks to our other suppliers: E3d, Microswiss, Slice Engineering, Misumi for de
 
 ## Sources
 
-We give references that have influneced the design. Since the majority of plastic parts (even if much improved and somehow "new and different") have their roots in the initial design by Prusa Research we like to mention this as first and most influential reference. 
+We give references that have influneced the design. Since the majority of plastic parts (even if much improved and somehow "new and different") have their roots in the initial design by Prusa Research we like to mention this as first and most influential reference.
 
 * Prusa: http://www.prusa3d.com
 
@@ -59,33 +59,33 @@ Frame
 LGX-Mosquito Extruder
 * initial design done by Gerd Jentz: https://github.com/gerdj/LGX_Mosquito
 
-BL-Touch Holder 
+BL-Touch Holder
 * Design by Michael Müller. Thanks for providing the STEP file
 
 Fan ducts for Bondtech (E3d, Mosquito), LGX-Mosquito, LGX-Copperhead
 * Design by Torsten Juch: https://www.thingiverse.com/thing:4969611/files
 * Tested and improved by Nico Seeleib, Frank Gotzhein
 
-y-rodholder:
+y-Rod Holder:
 * they have been inspired by the design of Piotr Karkovski https://www.thingiverse.com/thing:2830591
 
-y-bearing holder
+y-Bearing Holder
 * the clamp mechanism is similar to one used on the x-axis. We like to mention that the first clamp design with insert for the carriage for the bearings holders was done by Vecko Kojchevski https://www.thingiverse.com/thing:2930007
 
 x-MotorHolder and X-Idler
 * inspired by initial clamp design of Arnaud Rousseau https://www.thingiverse.com/thing:2964026
 hole design seen on some screen shoot of a bear part 😉Bear x-axis can be found here https://www.thingiverse.com/thing:3716110
 
-x-carriage
+x-Carriage
 * earlier carriage design and references therein https://www.thingiverse.com/thing:2770327
 
 z-Top Holder
 * hole design seen on some screen shoot of a bear part 😉Bear x-axis can be found here https://www.thingiverse.com/thing:3716110
 
 z-Motor Holder:
-* the new motor holder was designed independently but we would like to point out that a similar design exists by Vecko Kojchevski https://www.thingiverse.com/thing:2974255 
+* the new motor holder was designed independently but we would like to point out that a similar design exists by Vecko Kojchevski https://www.thingiverse.com/thing:2974255
 
-Meanwell PSU-holder
+Meanwell PSU-Holder
 * Tobias Reischl https://www.thingiverse.com/thing:3373172
 
 Delta PSU-Holder
@@ -100,10 +100,12 @@ STL and SVG for PrusaSlicer for MKx, Klipper,and Mosaic as background
 Mosquito PFTE cutting tools
 * based on the version by Juan Puchol https://www.thingiverse.com/thing:4156136
 
+Large Spool Holder Left & Right
+* Thanks Tom Marshall for developing, testing, and sharing the STL and STEP files
+
 Earlier Releases were partly designed by or influenced by:
 
 * Stefan Weber: y-belt tensioner: https://www.thingiverse.com/thing:2666661
 * Jon Madden: Prusa MK2/S X-Carriage Adjustable Tensioner by: https://www.thingiverse.com/thing:2770019
 * Vecko Kojchevski: https://www.thingiverse.com/vekoj/designs
 * Ocie Ward
-
