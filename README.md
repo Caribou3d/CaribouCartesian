@@ -103,6 +103,9 @@ Mosquito PFTE cutting tools
 Large Spool Holder Left & Right
 * Thanks Tom Marshall for developing, testing, and sharing the STL and STEP files
 
+Double Bowden Extension
+* Thanks Karl Schömer for developing and sharing the STEP and STL files
+
 Earlier Releases were partly designed by or influenced by:
 
 * Stefan Weber: y-belt tensioner: https://www.thingiverse.com/thing:2666661
